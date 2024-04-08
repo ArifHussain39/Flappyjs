@@ -1,1 +1,3 @@
-console.log("Badge");
+const useless = () => {
+    console.log("useless");
+};
